@@ -15,11 +15,11 @@
 		<version>2.7.15</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.uniquindio</groupId>
+	<groupId>com.mdsdigital</groupId>
 	<artifactId>pruebaTecnica</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>guauma</name>
-	<description>El guardián de tu mascota</description>
+	<name>PruebaTecnica</name>
+	<description>Prueba tecnica</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
